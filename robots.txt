@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kato-and-sooner.hallucatrix.com/sitemap-index.xml
